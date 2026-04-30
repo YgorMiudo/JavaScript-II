@@ -1,4 +1,4 @@
-const { edGalho, edFolha } = require('./arrays');
+const { edDaly, edGforce } = require('./arrays');
 
 function juntaLista( lista1, lista2) {
     

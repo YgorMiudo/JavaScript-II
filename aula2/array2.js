@@ -1,4 +1,4 @@
-const edFolha = [
+const edBrack = [
   {
   titulo: "Overwatch",
   preco: 215
@@ -21,7 +21,7 @@ const edFolha = [
   }
 ]
 
-const edGalho = [
+const edChat = [
   {
     titulo: "Pokemon",
     preco: 920
@@ -48,4 +48,4 @@ const edGalho = [
   }
 ]
 
-module.exports = { edFolha, edGalho }
+module.exports = { edBrack, edChat }
